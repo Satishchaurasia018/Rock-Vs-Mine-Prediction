@@ -3,4 +3,11 @@
 
 # Technologies used:
   PYTHON 
+    i) Numpy
+   ii) Pandas
+  iii) Seaborn
+   iv) Matplotlib
+    v) Sklearn
+  
+ #
   
