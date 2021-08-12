@@ -2,7 +2,7 @@
  Machin Learning Model to predict either rock or mine.
 
 # Technologies used:
-  PYTHON 
+  PYTHON:-
     i) Numpy
    ii) Pandas
   iii) Seaborn
